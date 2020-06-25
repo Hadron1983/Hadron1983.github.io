@@ -1,3 +1,7 @@
-h1{color: red;}
+h1{color: red;
+font-family:'Times New Roman', Times, serif;
+text-align: center;}
 ol{color: green;}
-li{color: blueviolet;}
+h3{color:chocolate;
+font-family: Georgia, 'Times New Roman', Times, serif;
+text-align: justify;}
