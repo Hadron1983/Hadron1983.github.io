@@ -4,4 +4,6 @@ text-align: center;}
 ol{color: green;}
 h3{color:chocolate;
 font-family: Georgia, 'Times New Roman', Times, serif;
-text-align: justify;}
+text-align:center;
+text-transform: capitalize;
+line-height:unset;}
